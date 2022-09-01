@@ -1,2 +1,2 @@
-#! /bin/bash
-ln -s /bin/ls . / __ ls ___
+#!/bin/bash
+ln -s /bin/ls . / __ ls __
